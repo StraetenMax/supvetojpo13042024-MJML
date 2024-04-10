@@ -147,8 +147,9 @@
     <!--Réseaux sociaux-->
             <mj-column width="265px">
                 <mj-social padding-top="0" padding-bottom="0" align="right" icon-size="35px" mode="horizontal" css-class="m-footer2">
-                    <mj-social-element background-color="#114222" name="facebook" href="https://www.facebook.com/EcosupCamp"></mj-social-element>
-                    <mj-social-element background-color="#114222" name="instagram" href="https://www.instagram.com/ecosup.campus/"></mj-social-element>
+                    <mj-social-element background-color="#114222" name="facebook" href="https://www.facebook.com/SupVetoLille/"></mj-social-element>
+                    <mj-social-element background-color="#114222" name="instagram" href="https://www.instagram.com/supveto.lille"></mj-social-element>
+                    <mj-social-element background-color="#114222" name="linkedin" href="https://linkedin.com/company/ecosup-campus"></mj-social-element>
                 </mj-social>
             </mj-column>
         </mj-section>
